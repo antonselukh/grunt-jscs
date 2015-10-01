@@ -1,10 +1,7 @@
 # grunt-jscs
 > Task for checking JavaScript Code Style with [jscs](https://github.com/jscs-dev/node-jscs).
 
-[![Build Status](https://travis-ci.org/jscs-dev/grunt-jscs.svg?branch=master)](https://travis-ci.org/jscs-dev/grunt-jscs)
-[![Dependency Status](https://david-dm.org/jscs-dev/grunt-jscs.svg)](https://david-dm.org/jscs-dev/grunt-jscs)
-[![devDependency Status](https://david-dm.org/jscs-dev/grunt-jscs/dev-status.svg)](https://david-dm.org/jscs-dev/grunt-jscs#info=devDependencies)
-[![NPM version](https://badge.fury.io/js/grunt-jscs.svg)](http://badge.fury.io/js/grunt-jscs)
+Version: 2.2.1
 
 ## Getting started
 This plugin requires Grunt `~0.4.2`
